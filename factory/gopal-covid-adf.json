@@ -1,0 +1,9 @@
+{
+	"name": "gopal-covid-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a9aa68c-1a59-470b-9a5f-1988f3494097",
+		"tenantId": "2894bf79-83dc-45df-845a-c89f899edaef"
+	}
+}
