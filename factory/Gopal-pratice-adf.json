@@ -1,0 +1,9 @@
+{
+	"name": "Gopal-pratice-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "362b9c3e-2788-47b5-a5b2-f530fb6c0e42",
+		"tenantId": "2894bf79-83dc-45df-845a-c89f899edaef"
+	}
+}
